@@ -1,7 +1,7 @@
 import { Component, signal } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 
-import { Home } from './home/home';
+//import { Home } from './home/home';
 
 
 @Component({
@@ -9,7 +9,7 @@ import { Home } from './home/home';
   imports: 
     [
       RouterOutlet,
-      Home
+      //Home
     ],
   templateUrl: './app.html',
   styleUrl: './app.css'

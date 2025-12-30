@@ -3,7 +3,13 @@ button.mat-button {
 }
 
 .center {
-  margin: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   width: 50%;
   padding: 10px;
+}
+
+.menu-button {
+    font-size: 20 !important;
 }

@@ -1,0 +1,12 @@
+{
+  "routes": {
+    "/sofiaalice.com": {},
+    "/sofiaalice.com/about": {},
+    "/sofiaalice.com/art": {},
+    "/sofiaalice.com/editing": {},
+    "/sofiaalice.com/home": {},
+    "/sofiaalice.com/reading": {},
+    "/sofiaalice.com/shop": {},
+    "/sofiaalice.com/writing": {}
+  }
+}

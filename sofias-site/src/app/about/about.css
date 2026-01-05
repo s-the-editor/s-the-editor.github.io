@@ -5,3 +5,23 @@
   width: 50%;
   padding: 10px;
 }
+
+.flex-container {
+  display: flex;
+}
+
+.image {
+    display: flex;
+    width: 40%;
+    margin-right: 0px;
+    margin-left: 45px;
+}
+
+.insta-button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+}

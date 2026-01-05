@@ -5,3 +5,14 @@
   width: 50%;
   padding: 10px;
 }
+
+.flex-container {
+  display: flex;
+}
+
+.cover-image {
+    display: flex;
+    width: 18%;
+    margin-right: 5px;
+    margin-left: 5px;
+}
